@@ -1,5 +1,5 @@
 - 💬 About me: My name is Jake and I am 19 years old with a dream to become a software dev. Im currently at Bloomtech working towards my goal!!!
-- 📫 How to reach me: www.linkedin.com/in/jakehappel
+- 📫 How to reach me: jjhappel4213@gmail.com
 - ⚡ Fun fact: I'm a wrestler born and raised.
 <!--
 **MasterHap/MasterHap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
